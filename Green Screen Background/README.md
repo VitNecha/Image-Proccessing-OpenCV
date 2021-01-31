@@ -11,7 +11,7 @@ The quality of the result may be affected by the quality of images.
 
 **Python version:** 3.7
 
-**Required libraries:** opencv, numpy, matplotlib(optional, only to view photos in realtime).
+**Required libraries:** opencv, numpy, matplotlib (optional, only to view photos in realtime).
 
 **Example:**
 
